@@ -1,0 +1,16 @@
+{
+  "name": "microservice_m1",
+  "version": "1.0.0",
+  "description": "HTTP",
+  "main": "M1.js",
+  "scripts": {
+    "start": "M1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "amqplib": "^0.7.1"
+  },
+  "author": "Valerii Mikheev",
+  "license": "ISC"
+}
